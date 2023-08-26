@@ -1,7 +1,7 @@
 
 // 5. Write a program to check whether a string is palindrome or not.
 
-let str="Ayuvya";
+let str="ayuvya";
 CheckPallindrome(str)
 
 function CheckPallindrome(str){
